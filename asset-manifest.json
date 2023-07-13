@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app1/static/css/main.e45fb457.css",
-    "main.js": "/my-app1/static/js/main.1c9fb828.js",
-    "index.html": "/my-app1/index.html",
-    "main.e45fb457.css.map": "/my-app1/static/css/main.e45fb457.css.map",
-    "main.1c9fb828.js.map": "/my-app1/static/js/main.1c9fb828.js.map"
+    "main.css": "/imdb-app1/static/css/main.e45fb457.css",
+    "main.js": "/imdb-app1/static/js/main.1c9fb828.js",
+    "index.html": "/imdb-app1/index.html",
+    "main.e45fb457.css.map": "/imdb-app1/static/css/main.e45fb457.css.map",
+    "main.1c9fb828.js.map": "/imdb-app1/static/js/main.1c9fb828.js.map"
   },
   "entrypoints": [
     "static/css/main.e45fb457.css",
